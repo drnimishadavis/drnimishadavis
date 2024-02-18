@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Nimisha Davis, a cybersecurity engineer.
 - 👀 I’m interested in enhancing my skills in ethical hacking and penetration testing.
 - 🌱 I’m currently learning to earn the OSCP (Offensive Security Certified Professional) certification.
-- 💼 I have a CEH (Certified Ethical Hacker) certification.
 - 📫 You can reach me on GitHub: [@drnimishadavis](https://github.com/drnimishadavis)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I enjoy solving Capture The Flag (CTF) challenges in my free time!
