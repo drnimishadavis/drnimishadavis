@@ -14,13 +14,13 @@ Always eager to learn and grow, I'm dedicated to using AI to tackle real-world c
 
 ## GitHub Stats 📊
 
-![Nimisha Davis's GitHub stats](https://github-readme-stats.vercel.app/api?username=dr-nimishadavis&show_icons=true&theme=radical)
+![Nimisha Davis's GitHub stats](https://github-readme-stats.vercel.app/api?username=drnimishadavis&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dr-nimishadavis&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drnimishadavis&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Profile Views 👀
 
-![Profile Views](https://komarev.com/ghpvc/?username=dr-nimishadavis&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=drnimishadavis&color=blueviolet&style=flat-square)
 
 ## 🛠️ My Skillset
 
