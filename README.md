@@ -1,6 +1,6 @@
 # Nimisha Davis - AI Engineer | Machine Learning | Deep Learning | NLP | Python | SQL | Data Visualization 👋
 
-[![Visit my Portfolio](https://img.shields.io/badge/Website-Visit-blue)](https://drnimishadavis.github.io/drnimishadavis-portfolio/)
+[![Visit my Portfolio](https://img.shields.io/badge/Website-Visit-blue)](#)
 
 ## About Me 🌟
 
